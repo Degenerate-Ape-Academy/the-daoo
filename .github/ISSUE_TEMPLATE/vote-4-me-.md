@@ -2,7 +2,7 @@
 name: Vote-4-Me!
 about: For candidates to nominate themselves for the upcoming DAOO Student Council
   elections.
-title: Vote-4-{INSERT YOUR DISRCORD NAME HERE}
+title: Vote-4-{INSERT YOUR DISCORD NAME HERE}
 labels: candidate
 assignees: ''
 
