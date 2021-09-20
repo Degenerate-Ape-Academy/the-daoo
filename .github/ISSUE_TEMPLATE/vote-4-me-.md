@@ -7,7 +7,9 @@ labels: candidate
 assignees: ''
 
 ---
-**{Note, all bracketed text should be deleted and filled in with the appropriate info before you publish this issue!}**
+
+**{Note, all bracketed text should be deleted and filled in with the appropriate info before you publish this issue! If this text is still in here when you post, you're NGMI.}**
+
 #### My discord name is: {insert your discord name, with the 4 numbers at the end. This is case sensitive!}
 #### You can view my apes at this address: {Insert your wallet address with your apes}
 ---
